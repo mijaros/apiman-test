@@ -28,7 +28,6 @@ script:
 
 notifications:
   email:
-    - jcechace@redhat.com
     - mjaros@redhat.com
 
 branches:
